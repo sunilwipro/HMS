@@ -1,1 +1,5 @@
 I am learning GIT
+
+GIT is DVCS
+GIT is free source
+GIT is allow us to track the changes in files
